@@ -7,3 +7,5 @@ export default function Home() {
   <h1 className="text-center pt-4">Welcome to DevNews</h1>
   )
 }
+
+
